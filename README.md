@@ -190,7 +190,7 @@ p.note { display: none; }
 <h2><span class="yellow">雑誌は日経ソフトウエアの休刊最終号</span></h2>
 <a href="https://torokoid.github.io/20260928_utsunomiya/20260928_00002.jpeg" target="_blank"><img src="https://torokoid.github.io/20260928_utsunomiya/20260928_00002.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">記事の内容をちょっと古いMacBookProひたすら実行</span></h2>
+<h2><span class="yellow">記事の内容をちょっと古いMacBookProでひたすら実行</span></h2>
 <a href="20260929_00001.png" target="_blank"><img src="20260929_00001.png" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260929_00002.png" target="_blank"><img src="20260929_00002.png" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260929_00003.png" target="_blank"><img src="20260929_00003.png" alt="サンプル画像" class="responsive-media"></a>
