@@ -174,7 +174,7 @@ p.note { display: none; }
 <h2><span class="yellow">唐辛子も色づきます</span></h2>
 <a href="20260929_00002.jpeg" target="_blank"><img src="20260929_00002.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">まだ次のお花も咲いているところ</span></h2>
+<h2><span class="yellow">唐辛子は、まだ次のお花も咲いているところ</span></h2>
 <a href="20260929_00003.jpeg" target="_blank"><img src="20260929_00003.jpeg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260929_00004.jpeg" target="_blank"><img src="20260929_00004.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
